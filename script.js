@@ -8,4 +8,6 @@ function showTime(){
 
 setInterval((showTime),1000);
 
-// setInterval is calling the function showtime every second and the function showtime writes in the document the following things: the hours, the minutes and the seconds which is got from the new date Object.thus function is called every second and updated time is shown every second after converting it into string bu toString method.
+//  setInterval is calling the function showtime every second and the function showtime writes in the document the
+// following things: the hours, the minutes and the seconds which is got from the new date Object.thus function is
+// called every second and updated time is shown every second after converting it into string bu toString method.
